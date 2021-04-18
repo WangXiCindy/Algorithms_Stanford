@@ -2,7 +2,7 @@
 
 - This is the homework of Stanford Alogrithms on Coursera. This is a very good lesson and deeply talk about the algorithms. I really recognize you to study this. If you are a student, you can apply for a Financial Aid.
 - This is just a sample result and please do not plagiarize.
-- If you have a wrong answer, I really recognize you to go to the [Andrew's Exercise Solutions](http://andrew-exercise.blogspot.com/ ) and [Abhijit Sarkar's blog](https://blogs.asarkar.com/algorithms-design-analysis/set-2/) to find out the reason why the answer is wrong.
+- If you have a wrong answer, I really recommand you to go to the [Andrew's Exercise Solutions](http://andrew-exercise.blogspot.com/ ) and [Abhijit Sarkar's blog](https://blogs.asarkar.com/algorithms-design-analysis/set-2/) to find out the reason why the answer is wrong.
 - Because of my ability limitation, the programming assignments may not be the best answer, If you have a better one, welcome to communicate with me.
 
 
